@@ -1,0 +1,30 @@
+#clock_Face
+{
+  -fx-fill: white;
+  -fx-stroke: black;
+  -fx-stroke-width: 5;
+}
+
+#clock_Hour_Hand
+{
+  -fx-stroke: black;
+  -fx-stroke-width: 4;
+}
+
+#clock_Minute_Hand
+{
+  -fx-stroke: blue;
+  -fx-stroke-width: 3;
+}
+
+#clock_Second_Hand
+{
+  -fx-stroke: red;
+  -fx-stroke-width: 2;
+}
+
+.clock_Tick_Mark
+{
+  -fx-stroke: black;
+  -fx-stroke-width: 3;
+}
